@@ -8,7 +8,7 @@
 
 #description of the app SPA_MEVN:
 
-In this application you can add remove companies.
+In this application you can add and remove companies.
 The company have description like name of company, 
 address, service of activity, number of employees,
 dewscription of this company and type.
